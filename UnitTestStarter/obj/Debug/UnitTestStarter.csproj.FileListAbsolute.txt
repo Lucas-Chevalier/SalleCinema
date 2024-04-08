@@ -1,0 +1,7 @@
+C:\Users\cheva_00xim79\Source\Repos\unit-test-starter\UnitTestStarter\bin\Debug\UnitTestStarter.exe.config
+C:\Users\cheva_00xim79\Source\Repos\unit-test-starter\UnitTestStarter\bin\Debug\UnitTestStarter.exe
+C:\Users\cheva_00xim79\Source\Repos\unit-test-starter\UnitTestStarter\bin\Debug\UnitTestStarter.pdb
+C:\Users\cheva_00xim79\Source\Repos\unit-test-starter\UnitTestStarter\obj\Debug\UnitTestStarter.csproj.AssemblyReference.cache
+C:\Users\cheva_00xim79\Source\Repos\unit-test-starter\UnitTestStarter\obj\Debug\UnitTestStarter.csproj.CoreCompileInputs.cache
+C:\Users\cheva_00xim79\Source\Repos\unit-test-starter\UnitTestStarter\obj\Debug\UnitTestStarter.exe
+C:\Users\cheva_00xim79\Source\Repos\unit-test-starter\UnitTestStarter\obj\Debug\UnitTestStarter.pdb
